@@ -1,5 +1,5 @@
-## 🌐 AdminLTE3-Autenticacao-Net-Mvc5
-Exemplo de autenticação Jwt com renderização AdminLTE3 em C# ASP.NET .NETFramework MVC5 com banco de dados MySQL.
+## 🌐 AdminLTE3-Autorização-Net-Mvc5
+Exemplo de autorização Jwt com renderização AdminLTE3 em C# ASP.NET .NETFramework MVC5 com banco de dados MySQL.
 
 #### 🎨 Aqui está uma demonstração do Projeto
 <img width="800" height="350" alt="19 04 2026_19 13 55_REC" src="https://github.com/user-attachments/assets/3c9cdbbe-cc65-46ed-97bd-d335ed109cd2" />
